@@ -1,0 +1,13 @@
+﻿  StudentWorld.cpp
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(58,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(62,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(74,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(87,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(90,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(99,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(183,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(416,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(420,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(438,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\13102\Desktop\GhostRacer\GhostRacer\StudentWorld.cpp(442,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GhostRacer.vcxproj -> C:\Users\13102\Desktop\GhostRacer\Debug\GhostRacer.exe
